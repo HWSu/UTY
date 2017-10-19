@@ -6,7 +6,7 @@ public class aaa : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		Debug.log("TAKE");
 	}
 	
 	// Update is called once per frame
