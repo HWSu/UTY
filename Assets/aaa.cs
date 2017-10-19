@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class aaa : MonoBehaviour {
 
-	// Use this for initialization
+	// se this for initialization
 	void Start () {
 		
 	}
